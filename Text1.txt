@@ -1,3 +1,6 @@
 1) Text1 File added to Hub repository
-2)Testing Conflicts
+
+
+
+2) Adding text to test Resolving conflict
 
